@@ -16,6 +16,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DYZGAMING&label=Profile%20views&color=0e75b6&style=flat" alt="DYGAMING" /> </p>
+<h1>I am Divyanshu Tripathi</h1>
 <div id="badges">
   <a href="https://www.linkedin.com/in/divyanshu-tripathi-344789229/////">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
